@@ -1,0 +1,9 @@
+PyPDF2
+sentence-transformers
+faiss-cpu
+transformers
+streamlit
+regex
+numpy
+pandas
+scikit-learn
