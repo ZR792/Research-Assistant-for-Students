@@ -1,4 +1,6 @@
-PyPDF2
+pypdf
+python-docx
+python-pptx
 sentence-transformers
 faiss-cpu
 transformers
